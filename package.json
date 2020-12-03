@@ -1,0 +1,12 @@
+{
+  "name": "baixar",
+  "version": "1.0.0",
+  "description": "Baixe seus videos favoritos do youtube.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Educado#1337",
+  "license": "ISC"
+}
