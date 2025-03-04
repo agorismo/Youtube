@@ -10,7 +10,7 @@
 
 
 # Clone o repositório em sua área de trabalho:
-`git clone https://github.com/SystemsFrozen/Download-Videos-Youtube`
+`git clone https://github.com/agorismo/Youtube`
 
 # Instale as dependencias:
 `pip install moviepy` & `pip install pytube`
